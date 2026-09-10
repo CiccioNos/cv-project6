@@ -1,5 +1,8 @@
 .venv
 checkpoints
+checkpoints2
+logs
+_pycache_
 ffhq128
 samples
 **.pdf
