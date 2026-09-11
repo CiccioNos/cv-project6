@@ -6,3 +6,4 @@ matplotlib>=3.7
 tqdm>=4.66
 kagglehub>=0.1.2
 shutil>=1.0
+torchmetrics>=0.11
